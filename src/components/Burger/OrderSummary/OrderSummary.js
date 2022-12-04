@@ -1,6 +1,5 @@
 import React from 'react';
-
-import Aux from '../../../hoc/Aux';
+import Aux from '../../../hoc/Aux-hoc';
 import ActionAlerts from '../../UI/Alert/Alert';
 import Button from '../../UI/Button/Button';
 import Spinner from "../../UI/Spinner/Spinner"
