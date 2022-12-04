@@ -2,7 +2,7 @@ import React from 'react';
 
 
 import './Modal.css';
-import Aux from '../../../hoc/Aux';
+import Aux from '../../../hoc/Aux-hoc';
 import Backdrop from '../Backdrop/Backdrop';
 
 
